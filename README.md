@@ -1,6 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmaith&theme=one_dark_pro&show_icons=true&theme=radical)
 
-<!--
+
 **sigmaith/sigmaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<br>
+
+## 📌 Activity
+
+- 2023.03 ~ 세종대학교 보안동아리 SSG
+- 
+<br>
+
+## 📌 Stack
+
+- <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+
+- <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black" />
+
+- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+<br>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julysummerdoyou)](https://solved.ac/julysummerdoyou/)
