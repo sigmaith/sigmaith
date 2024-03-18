@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 2023.01 ~ 세종대학교 정보보호학과 SESLAB 학부연구생 활동
 - 2023.03 ~ 세종대학교 보안동아리 SSG
-- 2024.02 ~ 세종대학교 개발동아리 Alom
+- 2024.02 ~ 세종대학교 개발동아리 ALOM
 <br>
 
 ## 📌 Stack
