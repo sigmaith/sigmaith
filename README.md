@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmaith&theme=one_dark_pro&show_icons=true&theme=radical)
-
 
 
 - 🔭 I’m currently working on Project using Java & Spring
@@ -46,3 +44,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julysummerdoyou)](https://solved.ac/julysummerdoyou/)
 
 <br>
+
+## 📌 COMMIT
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmaith&theme=one_dark_pro&show_icons=true&theme=radical)
