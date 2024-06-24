@@ -6,13 +6,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on Project using Java & Spring
+- 🌱 I’m currently learning Java & Spring, English
+- 👯 I’m looking to collaborate on Chatting System, Distributed MSA 
+- 🤔 I’m looking for help with Kafka, Distributed MSA, OOP, DDD 
+- 💬 Ask me about My Projects
+- 📫 How to reach me: drsoombre@naver.com
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: ...
 
 
@@ -45,5 +45,7 @@ Here are some ideas to get you started:
 
 <br>
 
-
+## 📌 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julysummerdoyou)](https://solved.ac/julysummerdoyou/)
+
+<br>
