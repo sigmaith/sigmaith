@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 - 2024.02 ~ 세종대학교 개발동아리 ALOM
 <br>
 
+## 📌 Awards
+
+|연도|대회|수상|프로젝트|역할|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+
 ## 📌 Stack
 
 - <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
