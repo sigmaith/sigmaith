@@ -8,7 +8,7 @@
 - 💬 Ask me about My Projects
 - 📫 How to reach me: drsoombre@naver.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love birds & cats
 
 
 <br>
