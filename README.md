@@ -7,9 +7,6 @@
 - 🤔 I’m looking for help with Kafka, Distributed MSA, OOP, DDD 
 - 💬 Ask me about My Projects
 - 📫 How to reach me: drsoombre@naver.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love birds & cats
-
 
 <br>
 
@@ -17,6 +14,7 @@
 - 2023.01 ~ 2024.08 세종대학교 정보보호학과 SESLAB 학부연구생 활동
 - 2023.03 ~ 세종대학교 보안동아리 SSG & 알고리즘 동아리 SAG
 - 2024.02 ~ 세종대학교 개발동아리 ALOM
+- 2024.08.19 ~ 2024.10.11 Naver, Smart Studio Alto TF, CRDT 동시편집 플랫폼 Yorkie 인턴
 <br>
 
 ## 📌 Awards
