@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=Sum i)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=Sum_i)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Project using Java & Spring
